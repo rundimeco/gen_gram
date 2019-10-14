@@ -1,0 +1,11 @@
+ {
+  "PRAG":"Euh|Dis donc,|Tiens,|Quand même",
+  "P":"GN GV|PRAG GN GV",
+  "GN":"DET NOM|NOMP", 
+  "GV":"V GN|V ADV ADJ",
+  "NOM": "spirit|mec|monde|biscuit|karaté|temps|moment|NOMP", 
+  "V": "mange|parle à|est|fait|bouffe|peut|respire",
+  "DET": "le|ce", 
+  "ADV":"très|vraiment|à fond",
+  "ADJ":"aware|gentil|magique|fort",
+  "NOMP":"Van Damme|Marcel Proust|Jésus|Mr muscles"}

@@ -1,0 +1,10 @@
+Usage : python generation.py (generation_v1 is an older version)
+
+By default uses JCVD.json as a grammar, a tribute to Jean-Claude Van Damme
+
+Grammars: 
+  - JSON format (Python Dictionnary)
+  - key, value pairs (Strings)
+  - each key is a non-terminal
+  - each value is a pipe separated list of terminals or non terminals
+

@@ -1,0 +1,10 @@
+ {
+  "P":"GN GV|GN GV",
+  "GN":"DET NOM|NOMP", 
+  "GV":"V GN|V ADV ADJ",
+  "NOM": "Corbeau|Renard|Fromage|Lion|Rat", 
+  "V": "mange|parle|est|fait|renseigne|inspire",
+  "DET": "le|ce", 
+  "ADV":"très|absolument|assez",
+  "ADJ":"petit|méchant|joli|fantasque|bien",
+  "NOMP":"Le Roy|Jean de La Fontaine|Le Destin"}
