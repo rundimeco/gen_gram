@@ -26,5 +26,5 @@ Struct = re.split("\|", dic["P"])#On fait une liste des phrases possibles
 nbPhrases = 10
 
 for i in range(0, nbPhrases):
-  chunks = StructPhrases[random.randrange(len(Struct))]#random structure
+  chunks = Struct[random.randrange(len(Struct))]#random structure
   print(" ".join(generate(chunks, dic)))
